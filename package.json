@@ -1,0 +1,22 @@
+{
+  "name": "basic-web-development",
+  "version": "1.0.0",
+  "description": "User input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyogeshmore/BasicWebDevelopment-PracticeSet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyogeshmore/BasicWebDevelopment-PracticeSet/issues"
+  },
+  "homepage": "https://github.com/iyogeshmore/BasicWebDevelopment-PracticeSet#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
